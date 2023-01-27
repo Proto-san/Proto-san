@@ -27,7 +27,7 @@
   
          
 
-![snake gif](https://github.com/proto-san/proto-san/blob/output/github-contribution-grid-snake.svg)
+
   
           
           
